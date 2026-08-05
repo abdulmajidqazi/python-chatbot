@@ -1,4 +1,4 @@
-# 🤖 ChatBot Using Python
+# 🤖 Python ChatBot
 
 A simple Python chatbot that uses **Ollama** to run the **Llama 3.2** model locally.
 
