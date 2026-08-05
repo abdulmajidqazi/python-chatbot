@@ -4,7 +4,7 @@ A simple Python ChatBot that uses **Ollama** to run the **Llama 3.2** model loca
 
 ## Requirements
 
-- Python 3.9+
+- Python 3.10+
 - Ollama installed
 - Llama 3.2 model downloaded
 
