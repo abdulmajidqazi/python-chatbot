@@ -1,2 +1,35 @@
-# python-chatbot
-A simple chatbot built with Python using Ollama and Llama 3.2.
+# 🤖 ChatBot Using Python
+
+A simple Python chatbot that uses **Ollama** to run the **Llama 3.2** model locally.
+
+## Requirements
+
+- Python 3.9+
+- Ollama installed
+- Llama 3.2 model downloaded
+
+## Install
+
+```bash
+pip install -r requirements.txt
+```
+
+## Download the model
+
+```bash
+ollama pull llama3.2
+```
+
+## Start Ollama
+
+```bash
+ollama serve
+```
+
+## Run
+
+```bash
+python chatbot.py
+```
+
+Type `exit` to quit the chatbot.
