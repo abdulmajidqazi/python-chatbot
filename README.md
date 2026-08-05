@@ -77,6 +77,11 @@ To exit the chatbot:
 ```text
 exit
 ```
+## 📸 Screenshot
+
+Example conversation:
+
+![Python ChatBot Output](output.png)
 
 ---
 
