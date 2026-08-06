@@ -81,7 +81,7 @@ exit
 
 Example conversation:
 
-![Python ChatBot Output](output.png)
+![Python ChatBot Output](chatbot-output.png)
 
 ---
 
